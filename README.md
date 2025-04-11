@@ -11,6 +11,8 @@
 
 - I'm currently learning c++!
 - I'm already learned c and python!
+
+- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=injandi105)](https://solved.ac/injandi105/)
 <!--
 **duhyeonkim62/duhyeonkim62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
